@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "lokasi": "office",
+    "tgl": "2023-08-15",
+    "waktu": "10:16",
+    "suhu": 30,
+    "kelembaban": 50
+  },
+  {
+    "id": 2,
+    "lokasi": "home",
+    "tgl": "2023-08-15",
+    "waktu": "15:30",
+    "suhu": 28,
+    "kelembaban": 55
+  },
+  {
+    "id": 3,
+    "lokasi": "lab",
+    "tgl": "2023-08-16",
+    "waktu": "09:45",
+    "suhu": 25,
+    "kelembaban": 60
+  }
+]
